@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatterns.Patterns.Strategy
+namespace DesignPatterns.Strategy
 {
   internal class DiscountsSender : ISender
   {

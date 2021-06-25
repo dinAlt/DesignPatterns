@@ -1,4 +1,4 @@
-namespace DesignPatterns.Patterns.Strategy
+namespace DesignPatterns.Strategy
 {
   internal class NoopSender : ISender
   {
