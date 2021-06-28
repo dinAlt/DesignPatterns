@@ -10,6 +10,6 @@ Although, .Net [has](https://docs.microsoft.com/en-us/dotnet/standard/events/obs
 Sample content:
 - `IObservable` and `IObserver` interfaces
 - `Shop` class as `IObservable` implementation
-- `Byer` and `Shipper` classes as IObserver implementations
+- `Buyer` and `Shipper` classes as IObserver implementations
 
 See usage example in `Program.cs`.
